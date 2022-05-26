@@ -11,15 +11,15 @@ Use code like the following to draw the correct badge here!
 <img src="https://media.badgr.com/uploads/badges/8e853a0b-726b-4101-8cb0-4b299926f19d.png" alt="{Model} Badge" width="200"/>
 ```
 
-While completing this test, you are not allowed to copy paste code from another source. If you are unable to complete the test this way, go back and practice some more! We don't do this because we're mean, but rather because we can't attest to your knowledge unless you can do it on your own. This means that when you do complete the test, you will actually be an expert in Make, rather than someone who knows how to copy and paste from the Internet.
+While completing this test, you are not allowed to copy paste code from another source. If you are unable to complete the test this way, go back and practice some more! We don't do this because we're mean, but rather because we can't attest to your knowledge unless you can do it on your own. This means that when you do complete the test, you will actually be an expert in {Model}, rather than someone who knows how to copy and paste from the Internet.
 
-Don't worry if the test gives you trouble, you can take it as many times as you'd like. The repeated trials will help you solidify the concepts into your brain, training yourself to remember the most important parts of Make.
+Don't worry if the test gives you trouble, you can take it as many times as you'd like. The repeated trials will help you solidify the concepts into your brain, training yourself to remember the most important parts of {Model}.
 
 ## Setup
 
 First, fork the repository to your user by pressing the fork button in the upper right hand corner. Then, you can clone the repository onto your computer with:
 ```
-git clone https://github.com/<your_username>/{model}Test.git
+git clone https://github.com/<your_username>/ztrippTest.git
 ```
 Now you are now ready to start coding!
 Start out by entering your email into the 'email.txt' file, so that we can properly give you your badge when you pass the test.
