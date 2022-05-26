@@ -46,7 +46,7 @@ pull request when its finished. So after a bit, check the Pull Request to see th
 It will have comments describing which parts of the test you passed.
 
 ### If you passed...
-Congratulations! You've passed the Make test, and you have been certified
+Congratulations! You've passed the {Model} test, and you have been certified
 by the BYU Computing BootCamp to have "{Model}" Knowledge. You should receive an email with your badge contained inside. The
 Pull Request has a comment with the email that the badge was sent to, so if you didn't receive it, check to make sure
 you entered your email correctly. Show off the "{Model}" badge to potential employers, or use it with other Computing BootCamp 
