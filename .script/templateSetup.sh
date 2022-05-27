@@ -9,3 +9,6 @@ sed -i "s/{Model}/$2/g" README.md
 sed -i "s/{model}/$1/g" README.md
 
 mv ./.github/workflows/modelTest.yml  ./.github/workflows/$1Test.yml
+rm HowToUse.md
+rm -rf ./.script
+rm -rf ./.media
