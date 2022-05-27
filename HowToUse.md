@@ -50,7 +50,7 @@ This will set you up to have everything named properly in the Javascript code.
 
 6. In .cbc/badgeAPI.js, there will be a variable on line three called {RepoName}BadgeEntityID. You need to set this variable equal to your badge's Badgr.com ID. To get the ID of the badge you want to reward, go to the Badgr page for the badge. The URL for the page will be of the form “https://badgr.com/public/badges/<BadgeEntityId>”, so just copy the slug from the URL and past it into this spot.
 
-<img src=".media/BadgesIDInURL.png" alt="Look here at the end!" width="1000"/>
+<img src=".media/BadgeIDInURL.png" alt="Look here at the end!" width="1000"/>
 
 7. Change README.md. Replace the links in the README.md that point to the Badgr page and the badge image file to point to the proper page and image files for your repo. 
 
