@@ -18,11 +18,11 @@ You will need to complete the following steps, after copying the repo:
 
 From here, change your Features menu to have only Issues selected. We don’t need the other features, and they might just end up confusing the user.
 
-<img src=".media/featuresetup.png" alt="Use this feature setup" width="1000"/>
+<img src=".media/featuresetup.png" alt="Use this feature setup" class="center"/>
 
 2. While still in Settings, go to the Branches tab on the left.
 
-<img src=".media/branchtab.png" alt="This is the branch tab" width="1000"/>
+<img src=".media/branchtab.png" alt="This is the branch tab" class="center"/>
 
 Add a new rule for branch pattern "main" to "Require pull request reviews before merging" and "Require review from Code Owners". This will stop the users from merging pull requests without our approval, so that the repository can function as designed. However, when you are creating/making edits to the repository, you might want to disable this temporarily to make it easy to push to the repository.
 
@@ -30,7 +30,7 @@ Add a new rule for branch pattern "main" to "Require pull request reviews before
 
 3. While still in Settings, go to the Secrets tab on the left. 
 
-<img src=".media/secretstab.png" alt="This is the secrets tab" width="1000"/>
+<img src=".media/secretstab.png" alt="This is the secrets tab" class="center"/>
 
 Add three secrets, one for the Badgr.com username as USERNAME, one for the password as PASSWORD, and one for the GitHub authentication token as AUTH_TOKEN. Contact Daniel Butterfield in Professor Mangelson's lab or Zephram Tripp in the CCL to get this information. This is also where you'll make secrets for expected output to compare against for your test cases.
 
