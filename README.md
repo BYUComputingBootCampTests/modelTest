@@ -19,7 +19,7 @@ Don't worry if the test gives you trouble, you can take it as many times as you'
 
 First, fork the repository to your user by pressing the fork button in the upper right hand corner. Then, you can clone the repository onto your computer with:
 ```
-git clone https://github.com/<your_username>/ztrippTest.git
+git clone https://github.com/<your_username>/{model}Test.git
 ```
 Now you are now ready to start coding!
 Start out by entering your email into the 'email.txt' file, so that we can properly give you your badge when you pass the test.
